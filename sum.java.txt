@@ -3,5 +3,9 @@ class demo
 public static void main(String args[])
 {
 system.out.println("hello guys ");
+int a=10;
+int b=30;
+int sum=a+b;
+system.out.println("hey guys its done here ");
 }
 }
